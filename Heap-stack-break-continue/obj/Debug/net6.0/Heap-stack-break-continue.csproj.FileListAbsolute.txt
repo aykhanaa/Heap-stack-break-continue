@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\C#\Heap-stack-break-continue\Heap-stack-break-continue\bin\Debug\net6.0\Heap-stack-break-continue.exe
+C:\Users\Hp\Desktop\C#\Heap-stack-break-continue\Heap-stack-break-continue\bin\Debug\net6.0\Heap-stack-break-continue.deps.json
+C:\Users\Hp\Desktop\C#\Heap-stack-break-continue\Heap-stack-break-continue\bin\Debug\net6.0\Heap-stack-break-continue.runtimeconfig.json
+C:\Users\Hp\Desktop\C#\Heap-stack-break-continue\Heap-stack-break-continue\bin\Debug\net6.0\Heap-stack-break-continue.dll
+C:\Users\Hp\Desktop\C#\Heap-stack-break-continue\Heap-stack-break-continue\bin\Debug\net6.0\Heap-stack-break-continue.pdb
+C:\Users\Hp\Desktop\C#\Heap-stack-break-continue\Heap-stack-break-continue\obj\Debug\net6.0\Heap-stack-break-continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#\Heap-stack-break-continue\Heap-stack-break-continue\obj\Debug\net6.0\Heap-stack-break-continue.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#\Heap-stack-break-continue\Heap-stack-break-continue\obj\Debug\net6.0\Heap-stack-break-continue.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#\Heap-stack-break-continue\Heap-stack-break-continue\obj\Debug\net6.0\Heap-stack-break-continue.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\Heap-stack-break-continue\Heap-stack-break-continue\obj\Debug\net6.0\Heap-stack-break-continue.dll
+C:\Users\Hp\Desktop\C#\Heap-stack-break-continue\Heap-stack-break-continue\obj\Debug\net6.0\refint\Heap-stack-break-continue.dll
+C:\Users\Hp\Desktop\C#\Heap-stack-break-continue\Heap-stack-break-continue\obj\Debug\net6.0\Heap-stack-break-continue.pdb
+C:\Users\Hp\Desktop\C#\Heap-stack-break-continue\Heap-stack-break-continue\obj\Debug\net6.0\Heap-stack-break-continue.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#\Heap-stack-break-continue\Heap-stack-break-continue\obj\Debug\net6.0\ref\Heap-stack-break-continue.dll
